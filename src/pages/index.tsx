@@ -13,7 +13,7 @@ const LandingPage = () => {
           </p>
           <h2 className="text-2xl font-semibold mb-2">What We Offer</h2>
           <p className="text-lg mb-4">
-            Our team of experienced tarot readers is here to offer you guidance and answers to life's questions. Explore our range of tarot readings, including love, career, and personal growth. Whether you're a seasoned tarot enthusiast or new to this spiritual journey, we have something for everyone.
+            Our team of experienced tarot readers is here to offer you guidance and answers to life&apos;s questions. Explore our range of tarot readings, including love, career, and personal growth. Whether you&apos;re a seasoned tarot enthusiast or new to this spiritual journey, we have something for everyone.
           </p>
           <h2 className="text-2xl font-semibold mb-2">Why Choose Us</h2>
           <p className="text-lg mb-4">
@@ -21,7 +21,7 @@ const LandingPage = () => {
           </p>
           <h2 className="text-2xl font-semibold mb-2">Get Started</h2>
           <p className="text-lg mb-4">
-            Ready to embark on your tarot journey? Click the "Access the Reading Room" button above to explore our tarot readings. Whether you seek answers, guidance, or simply a moment of reflection, our tarot readings await you.
+            Ready to embark on your tarot journey? Click the &quot;Access the Reading Room&quot; button above to explore our tarot readings. Whether you seek answers, guidance, or simply a moment of reflection, our tarot readings await you.
           </p>
         </div>
       </div>
